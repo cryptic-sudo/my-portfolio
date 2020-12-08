@@ -1,3 +1,16 @@
+.content{
+    max-width: 800px;
+    margin: auto;
+
+}
+
+#row1{
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+
+}
+/**
 body{
 margin: 0%;
 padding: 0%;
@@ -57,4 +70,4 @@ aside{
     margin-left:30px;
     height:50vh;
 }
-
+**/
